@@ -1,0 +1,1 @@
+One place where I can put Day planner, Diet planner, Habits planner, Workouts planner,  Spiritual planner integrated to Google Calendar/Task list
